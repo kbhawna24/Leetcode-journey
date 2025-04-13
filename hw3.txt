@@ -30,8 +30,8 @@
 <Placemark><name>trader_joe's</name>
 <styleUrl>#z1</styleUrl><Point><coordinates>-118.284629,34.026</coordinates></Point>
 </Placemark>
-<Placemark><name>Venice_beach</name>
-<styleUrl>#z1</styleUrl><Point><coordinates>-118.481,33.990</coordinates></Point>
+<Placemark><name>Garden</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.283,34.020447</coordinates></Point>
 </Placemark>
 <Placemark><name>Alumni_park</name>
 <styleUrl>#z1</styleUrl><Point><coordinates>-118.284452,34.020</coordinates></Point>
@@ -42,10 +42,10 @@
 <styleUrl>#z1</styleUrl><Point><coordinates>-118.289071,34.021</coordinates></Point>
 </Placemark>
 <Placemark><name>RTH</name>
-<styleUrl>#z1</styleUrl><Point><coordinates>-118.289894,34.020</coordinates></Point>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.289894,34.020126</coordinates></Point>
 </Placemark>
 <Placemark><name>engemann</name>
-<styleUrl>#z1</styleUrl><Point><coordinates>-118.54,34.025177</coordinates></Point>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.288,34.025177</coordinates></Point>
 </Placemark>
 </Folder>
 </Document></kml>
