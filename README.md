@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kbhawna24/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0658-find-k-closest-elements](https://github.com/kbhawna24/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 ## Two Pointers
 |  |
@@ -22,9 +23,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kbhawna24/Leetcode-journey/tree/master/0049-group-anagrams) |
 | [0658-find-k-closest-elements](https://github.com/kbhawna24/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/kbhawna24/Leetcode-journey/tree/master/0658-find-k-closest-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kbhawna24/Leetcode-journey/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/kbhawna24/Leetcode-journey/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
