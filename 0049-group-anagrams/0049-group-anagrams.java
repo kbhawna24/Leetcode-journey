@@ -4,6 +4,7 @@ class Solution {
         return new ArrayList<>();
         
         Map<String, List<String>> map = new HashMap<>();
+        List<List<String>> ans = new ArrayList<>();
 
         for(String s: strs){
             char[] array = s.toCharArray();
@@ -16,6 +17,8 @@ class Solution {
             map.get(key).add(s);
 
         }
-        return new ArrayList<>(map.values());
+        ans.addAll(map.values());
+
+        return ans;
     }
 }
